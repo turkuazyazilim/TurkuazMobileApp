@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-**Son Güncelleme:** 23 Aralık 2024
+**Son Güncelleme:** 23 Aralık 2025
 
 Turkuaz Mobil uygulamasını kullandığınız için teşekkür ederiz. Bu gizlilik politikası, uygulamamızın kişisel verilerinizi nasıl topladığını, kullandığını ve koruduğunu açıklamaktadır.
 
@@ -56,7 +56,7 @@ Gizlilik politikamız hakkında sorularınız için bizimle iletişime geçebili
 
 # Privacy Policy
 
-**Last Updated:** December 23, 2024
+**Last Updated:** December 23, 2025
 
 Thank you for using Turkuaz Mobile application. This privacy policy explains how our application collects, uses, and protects your personal data.
 
